@@ -19,7 +19,6 @@
 ---
 
 ## 🧰 Tools
-## 🧰 Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
 
