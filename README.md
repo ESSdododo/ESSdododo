@@ -2,7 +2,7 @@
 <!--  Intro / Links (Top)  -->
 <!-- ===================== -->
 
-## 👋 SeongJun (노베이스 개발 학습 기록)
+## 👋 SeongJun
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)](https://github.com/ESSdododo)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?logo=gmail&logoColor=white)](mailto:sungjun3161@gmail.com)
